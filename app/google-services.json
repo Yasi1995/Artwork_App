@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "707908264594",
+    "firebase_url": "https://artworkappdb.firebaseio.com",
+    "project_id": "artworkappdb",
+    "storage_bucket": "artworkappdb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:707908264594:android:c079e8e2101bbaef",
+        "android_client_info": {
+          "package_name": "com.company.artwork.artworkapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "707908264594-jfja4rsd9u216kbtimhrrt6upu3ideor.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.company.artwork.artworkapp",
+            "certificate_hash": "fcfd85715d48a8f0ef3c0d2bfea0295d2bd1bebb"
+          }
+        },
+        {
+          "client_id": "707908264594-pk0uiqn2a98ehbn89mmnrsu41fssj706.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUq5_EVIAs2ixMwMmkQVi7xsymz8TpLJQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "707908264594-pk0uiqn2a98ehbn89mmnrsu41fssj706.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
