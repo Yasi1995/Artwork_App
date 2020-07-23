@@ -8,7 +8,7 @@
 
 ## Screens
 
-![alt Image00](./img/a1.png)
+![alt Image00](./img/ar0.jpeg)
 
-![alt Image01](./img/a2.png)
+![alt Image01](./img/ar1.jpeg)
 
